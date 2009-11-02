@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	background-color:#497681;
+	height: 500px;
+	width: 700px;
+	position:relative;
+	top:0px;
+	left:50%;
+	margin-left: -350px;
+}
+.loginForm {
+	background-color:#FFFFFF;
+	width:400px;
+	position:relative;
+	left:50%;
+	margin-left:-200px;
+	top:50%;
+}
+.eventList {
+	width:300px;
+	position:absolute;
+	right:0px;
+}

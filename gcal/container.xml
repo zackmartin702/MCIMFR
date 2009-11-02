@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<event>
+<shortdescription>Birthday</shortdescription>
+<type>Birthday</type>
+<startDate>Today</startDate>
+<endDate>Tommorrow</endDate>
+<location>
+	<name>
+	Strosacker
+	</name>
+	<coordinates>
+		<latitude>
+			41.50333868357667
+		</latitude>
+		<longitude>
+			-81.60736799240112
+		</longitude>
+	</coordinates>
+	<streetaddress>
+		2125 Adelbert Road
+	</streetaddress> 
+	<city>
+		Cleveland
+	</city>
+	<state>
+		OH
+	</state>
+	<country>
+
+		USA
+	</country>
+	<zipcode>
+		44106
+	</zipcode>
+	<extra>
+		Look for the man in the silk shirt
+	</extra>
+</location> 
+<contact>
+<phone>555-555-5555</phone>
+</contact>
+</event>
